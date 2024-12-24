@@ -1,1 +1,2 @@
 # rockpaperscissors
+A javascript mini project of the game rock paper scissors. The purpose of this project is to get a solid grasp of some javascript fundamentals, specifically gaining experience working with javascript.
